@@ -1,58 +1,52 @@
-http://archlinux.mirror.liquidtelecom.com/$repo/os/$arch
-https://archlinux.mirror.liquidtelecom.com/$repo/os/$arch
-http://archlinux.mirror.wearetriple.com/$repo/os/$arch
-https://archlinux.mirror.wearetriple.com/$repo/os/$arch
-http://distrohub.kyiv.ua/archlinux/$repo/os/$arch
-https://distrohub.kyiv.ua/archlinux/$repo/os/$arch
-http://ftp.byfly.by/pub/archlinux/$repo/os/$arch
-https://ftp.byfly.by/pub/archlinux/$repo/os/$arch
-http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
-https://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
-http://ftp.sh.cvut.cz/arch/$repo/os/$arch
-https://ftp.sh.cvut.cz/arch/$repo/os/$arch
-http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
-https://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
-http://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
-https://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
-http://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/$repo/os/$arch
-https://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/$repo/os/$arch
-http://mirror.accum.se/mirror/archlinux/$repo/os/$arch
-https://mirror.accum.se/mirror/archlinux/$repo/os/$arch
-http://mirror.dogado.de/archlinux/$repo/os/$arch
-https://mirror.dogado.de/archlinux/$repo/os/$arch
-http://mirror.dkm.cz/archlinux/$repo/os/$arch
-https://mirror.dkm.cz/archlinux/$repo/os/$arch
-http://mirror.falcao.org/archlinux/$repo/os/$arch
-https://mirror.falcao.org/archlinux/$repo/os/$arch
-http://mirror.group.one/archlinux/$repo/os/$arch
-https://mirror.group.one/archlinux/$repo/os/$arch
-http://mirror.khoinet.dpdns.org/Arch/$repo/os/$arch
-https://mirror.khoinet.dpdns.org/Arch/$repo/os/$arch
-http://mirror.nyist.edu.cn/archlinux/$repo/os/$arch
-https://mirror.nyist.edu.cn/archlinux/$repo/os/$arch
-http://mirrors.hosterion.ro/archlinux/$repo/os/$arch
-https://mirrors.hosterion.ro/archlinux/$repo/os/$arch
-http://mirrors.hostico.ro/archlinux/$repo/os/$arch
-https://mirrors.hostico.ro/archlinux/$repo/os/$arch
-http://mirrors.nav.ro/archlinux/$repo/os/$arch
-https://mirrors.nav.ro/archlinux/$repo/os/$arch
-http://mirrors.mit.edu/archlinux/$repo/os/$arch
-https://mirrors.mit.edu/archlinux/$repo/os/$arch
-http://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
-https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
-http://mirrors.nxthost.com/archlinux/$repo/os/$arch
-https://mirrors.nxthost.com/archlinux/$repo/os/$arch
-http://mirrors.pablonara.com/archlinux/$repo/os/$arch
-https://mirrors.pablonara.com/archlinux/$repo/os/$arch
-http://mirrors.teamcloud.am/archlinux/$repo/os/$arch
-https://mirrors.teamcloud.am/archlinux/$repo/os/$arch
-http://mirrors.xtom.de/archlinux/$repo/os/$arch
-https://mirrors.xtom.de/archlinux/$repo/os/$arch
-http://mirrors.xtom.ee/archlinux/$repo/os/$arch
-https://mirrors.xtom.ee/archlinux/$repo/os/$arch
-http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-http://mirror.telepoint.bg/archlinux/$repo/os/$arch
-https://mirror.telepoint.bg/archlinux/$repo/os/$arch
-http://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
-https://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
+Server = http://archlinux.mirror.wearetriple.com/$repo/os/$arch
+Server = https://archlinux.mirror.wearetriple.com/$repo/os/$arch
+Server = http://distrohub.kyiv.ua/archlinux/$repo/os/$arch
+Server = https://distrohub.kyiv.ua/archlinux/$repo/os/$arch
+Server = http://ftp.byfly.by/pub/archlinux/$repo/os/$arch
+Server = https://ftp.byfly.by/pub/archlinux/$repo/os/$arch
+Server = http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
+Server = https://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
+Server = http://ftp.sh.cvut.cz/arch/$repo/os/$arch
+Server = https://ftp.sh.cvut.cz/arch/$repo/os/$arch
+Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
+Server = https://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
+Server = http://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
+Server = https://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
+Server = http://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/$repo/os/$arch
+Server = https://ftp.yz.yamagata-u.ac.jp/pub/linux/archlinux/$repo/os/$arch
+Server = http://mirror.dogado.de/archlinux/$repo/os/$arch
+Server = https://mirror.dogado.de/archlinux/$repo/os/$arch
+Server = http://mirror.dkm.cz/archlinux/$repo/os/$arch
+Server = https://mirror.dkm.cz/archlinux/$repo/os/$arch
+Server = http://mirror.falcao.org/archlinux/$repo/os/$arch
+Server = https://mirror.falcao.org/archlinux/$repo/os/$arch
+Server = http://mirror.khoinet.dpdns.org/Arch/$repo/os/$arch
+Server = https://mirror.khoinet.dpdns.org/Arch/$repo/os/$arch
+Server = http://mirror.nyist.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirror.nyist.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.hosterion.ro/archlinux/$repo/os/$arch
+Server = https://mirrors.hosterion.ro/archlinux/$repo/os/$arch
+Server = http://mirrors.hostico.ro/archlinux/$repo/os/$arch
+Server = https://mirrors.hostico.ro/archlinux/$repo/os/$arch
+Server = http://mirrors.nav.ro/archlinux/$repo/os/$arch
+Server = https://mirrors.nav.ro/archlinux/$repo/os/$arch
+Server = http://mirrors.mit.edu/archlinux/$repo/os/$arch
+Server = https://mirrors.mit.edu/archlinux/$repo/os/$arch
+Server = http://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+Server = http://mirrors.nxthost.com/archlinux/$repo/os/$arch
+Server = https://mirrors.nxthost.com/archlinux/$repo/os/$arch
+Server = http://mirrors.pablonara.com/archlinux/$repo/os/$arch
+Server = https://mirrors.pablonara.com/archlinux/$repo/os/$arch
+Server = http://mirrors.teamcloud.am/archlinux/$repo/os/$arch
+Server = https://mirrors.teamcloud.am/archlinux/$repo/os/$arch
+Server = http://mirrors.xtom.de/archlinux/$repo/os/$arch
+Server = https://mirrors.xtom.de/archlinux/$repo/os/$arch
+Server = http://mirrors.xtom.ee/archlinux/$repo/os/$arch
+Server = https://mirrors.xtom.ee/archlinux/$repo/os/$arch
+Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirror.telepoint.bg/archlinux/$repo/os/$arch
+Server = https://mirror.telepoint.bg/archlinux/$repo/os/$arch
+Server = http://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
+Server = https://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
