@@ -29,8 +29,8 @@ from typing import Iterator, Tuple
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 DNS_TIMEOUT_SECONDS = 2
-DNS_QUERY_DOMAIN = "web.bale.ai"
-PARALLEL = 192
+DNS_QUERY_DOMAIN = "google.com"
+PARALLEL = 88
 PING_TIMEOUT_SECONDS = 2
 
 def is_valid_ipv4(value: str) -> bool:
