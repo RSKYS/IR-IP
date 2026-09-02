@@ -64,6 +64,13 @@ Examples:
 EOF
 }
 
+if [ -d ".git" ]; then
+	if ping -c 1 1.1.1.1 > /dev/null 2>&1; then
+		git reset --hard master || true
+		git pull -f
+	fi
+fi
+
 action=${1:-}
 ip_file=${2:-"$DEFAULT_IP_FILE"}
 
