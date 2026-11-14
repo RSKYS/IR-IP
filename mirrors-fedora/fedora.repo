@@ -1,0 +1,13 @@
+baseurl=
+	https://mirror.gi.co.id/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.limda.net/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.init7.net/fedora/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirrors.dotsrc.org/fedora-enchilada/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirrors.nxthost.com/fedora/releases/$releasever/Everything/$basearch/os/
+	https://mirror.23m.com/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.ams1.nl.leaseweb.net/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.sfo12.us.leaseweb.net/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.cov.ukservers.com/fedora/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirrors.n-ix.net/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.raiolanetworks.com/fedora/linux/releases/$releasever/Everything/$basearch/os/
+	https://mirror.xeonbd.com/fedora/linux/releases/$releasever/Everything/$basearch/os/

@@ -1,0 +1,25 @@
+deb https://mirror.23m.com/debian main contrib non-free non-free-firmware
+
+deb https://mirror.cov.ukservers.com/debian main contrib non-free non-free-firmware
+
+deb https://mirror.init7.net/debian main contrib non-free non-free-firmware
+
+deb https://mirror.limda.net/debian main contrib non-free non-free-firmware
+
+deb https://mirror.mirohost.net/debian main contrib non-free non-free-firmware
+
+deb https://mirror.xeonbd.com/debian main contrib non-free non-free-firmware
+
+deb https://mirrors.dotsrc.org/debian main contrib non-free non-free-firmware
+
+deb https://mirrors.xtom.com/debian main contrib non-free non-free-firmware
+
+deb https://mirror.raiolanetworks.com/debian main contrib non-free non-free-firmware
+
+deb https://mirrors.nxthost.com/debian main contrib non-free non-free-firmware
+
+deb https://mirrors.pidginhost.com/debian main contrib non-free non-free-firmware
+
+deb https://mirror.gi.co.id/debian main contrib non-free non-free-firmware
+
+deb https://mirror.netcologne.de/debian main contrib non-free non-free-firmware
