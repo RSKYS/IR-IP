@@ -1,107 +1,53 @@
-http://berlin.mirror.pkgbuild.com
-https://berlin.mirror.pkgbuild.com
-http://dfw.mirror.rackspace.com
-https://dfw.mirror.rackspace.com
-http://frankfurt.mirror.pkgbuild.com
-https://frankfurt.mirror.pkgbuild.com
-http://ftpmirror.infania.net
-https://ftpmirror.infania.net
-http://iad.mirror.rackspace.com
-https://iad.mirror.rackspace.com
-http://johannesburg.mirror.pkgbuild.com
-http://london.mirror.pkgbuild.com
-https://london.mirror.pkgbuild.com
-http://lon.mirror.rackspace.com
-https://lon.mirror.rackspace.com
-http://losangeles.mirror.pkgbuild.com
-https://losangeles.mirror.pkgbuild.com
-http://mirror.23m.com
-https://mirror.23m.com
-http://mirror.ams1.nl.leaseweb.net
-https://mirror.ams1.nl.leaseweb.net
-http://mirror.bahnhof.net
-https://mirror.bahnhof.net
-http://mirror.citrahost.com
-https://mirror.citrahost.com
-http://mirror.clientvps.com
-https://mirror.clientvps.com
-http://mirror.cov.ukservers.com
-https://mirror.cov.ukservers.com
-http://mirror.cspacehostings.com
-https://mirror.cspacehostings.com
-http://mirror.es.cdn-perfprod.com
-https://mirror.es.cdn-perfprod.com
-http://mirror.fcix.net
-http://mirror.gi.co.id
-https://mirror.gi.co.id
-https://mirror.givebytes.net
-http://mirror.hashy0917.net
-https://mirror.hashy0917.net
-http://mirror.hb9hil.org
-https://mirror.hb9hil.org
-http://mirror.hosthink.net
-https://mirror.hosthink.net
-http://mirror.init7.net
-https://mirror.init7.net
-http://mirror.koddos.net
-https://mirror.koddos.net
-http://mirror.limda.net
-https://mirror.limda.net
-http://mirror.lu.stratonexus.net
-https://mirror.lu.stratonexus.net
-http://mirror.mangohost.net
-https://mirror.mangohost.net
-http://mirror.marcusn.net
-https://mirror.marcusn.net
-http://mirror.mirohost.net
-https://mirror.mirohost.net
-http://mirror.moson.org
-https://mirror.moson.org
-http://mirror.netcologne.de
-https://mirror.netcologne.de
-http://mirror.pilotfiber.com
-https://mirror.pilotfiber.com
-http://mirror.pit.teraswitch.com
-https://mirror.pit.teraswitch.com
-http://mirror.raiolanetworks.com
-https://mirror.raiolanetworks.com
-http://mirror.safiabidi.com
-https://mirror.safiabidi.com
-http://mirror.scd31.com
-https://mirror.scd31.com
-http://mirrors.dotsrc.org
-https://mirrors.dotsrc.org
-http://mirror.sfo12.us.leaseweb.net
-https://mirror.sfo12.us.leaseweb.net
-http://mirrors.gandi.net
-https://mirrors.gandi.net
-http://mirror.sg.cdn-perfprod.com
-https://mirror.sg.cdn-perfprod.com
-http://mirrors.iu13.net
-https://mirrors.iu13.net
-http://mirrors.melbourne.co.uk
-https://mirrors.melbourne.co.uk
-http://mirrors.nepalicloud.com
-https://mirrors.nepalicloud.com
-http://mirrors.n-ix.net
-https://mirrors.n-ix.net
-http://mirrors.nxtgen.com
-https://mirrors.nxtgen.com
-http://mirrors.nxthost.com
-https://mirrors.nxthost.com
-http://mirrors.pidginhost.com
-https://mirrors.pidginhost.com
-http://mirrors.xtom.com
-https://mirrors.xtom.com
-http://mirror.xeonbd.com
-https://mirror.xeonbd.com
-http://ord.mirror.rackspace.com
-https://ord.mirror.rackspace.com
-http://singapore.mirror.pkgbuild.com
-https://singapore.mirror.pkgbuild.com
-http://syd.mirror.rackspace.com
-https://syd.mirror.rackspace.com
-http://taipei.mirror.pkgbuild.com
-https://taipei.mirror.pkgbuild.com
-http://umea.mirror.pkgbuild.com
-https://umea.mirror.pkgbuild.com
+Server = http://dfw.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://taipei.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.ams1.nl.leaseweb.net/archlinux/$repo/os/$arch
+Server = http://mirrors.dotsrc.org/archlinux/$repo/os/$arch
+Server = http://mirror.gi.co.id/archlinux/$repo/os/$arch
+Server = http://mirrors.melbourne.co.uk/archlinux/$repo/os/$arch
+Server = http://singapore.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.cspacehostings.com/archlinux/$repo/os/$arch
+Server = http://iad.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://mirror.bahnhof.net/pub/archlinux/$repo/os/$arch
+Server = http://losangeles.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.moson.org/arch/$repo/os/$arch
+Server = http://mirror.scd31.com/arch/$repo/os/$arch
+Server = http://mirror.hosthink.net/arch/$repo/os/$arch
+Server = http://mirrors.iu13.net/archlinux/$repo/os/$arch
+Server = http://syd.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://mirror.es.cdn-perfprod.com/archlinux/$repo/os/$arch
+Server = http://mirror.mangohost.net/archlinux/$repo/os/$arch
+Server = http://mirrors.pidginhost.com/arch/$repo/os/$arch
+Server = http://ftpmirror.infania.net/mirror/archlinux/$repo/os/$arch
+Server = http://mirror.pilotfiber.com/archlinux/$repo/os/$arch
+Server = http://mirror.marcusn.net/archlinux/$repo/os/$arch
+Server = http://mirrors.gandi.net/archlinux/$repo/os/$arch
+Server = http://mirror.init7.net/archlinux/$repo/os/$arch
+Server = http://mirror.givebytes.net/archlinux/$repo/os/$arch
+Server = http://mirror.pit.teraswitch.com/archlinux/$repo/os/$arch
+Server = http://mirror.clientvps.com/archlinux/$repo/os/$arch
+Server = http://mirror.hb9hil.org/archlinux/$repo/os/$arch
+Server = http://mirrors.xtom.com/archlinux/$repo/os/$arch
+Server = http://ord.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://mirror.sfo12.us.leaseweb.net/archlinux/$repo/os/$arch
+Server = http://mirror.hashy0917.net/archlinux/$repo/os/$arch
+Server = http://mirror.mirohost.net/archlinux/$repo/os/$arch
+Server = http://mirrors.nepalicloud.com/archlinux/$repo/os/$arch
+Server = http://mirror.limda.net/archlinux/$repo/os/$arch
+Server = http://mirror.xeonbd.com/archlinux/$repo/os/$arch
+Server = http://mirrors.nxtgen.com/archlinux-mirror/$repo/os/$arch
+Server = http://mirror.cov.ukservers.com/archlinux/$repo/os/$arch
+Server = http://london.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://berlin.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.lu.stratonexus.net/archlinux/$repo/os/$arch
+Server = http://mirror.koddos.net/archlinux/$repo/os/$arch
+Server = http://mirror.sg.cdn-perfprod.com/archlinux/$repo/os/$arch
+Server = http://mirror.23m.com/archlinux/$repo/os/$arch
+Server = http://lon.mirror.rackspace.com/archlinux/$repo/os/$arch
+Server = http://umea.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.netcologne.de/archlinux/$repo/os/$arch
+Server = http://mirror.safiabidi.com/$repo/os/$arch
+Server = http://frankfurt.mirror.pkgbuild.com/$repo/os/$arch
+Server = http://mirror.raiolanetworks.com/archlinux/$repo/os/$arch
+Server = http://mirrors.nxthost.com/archlinux/$repo/os/$arch
+Server = http://mirrors.n-ix.net/archlinux/$repo/os/$arch
+Server = http://mirror.citrahost.com/archlinux/$repo/os/$arch
